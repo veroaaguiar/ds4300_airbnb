@@ -4,7 +4,7 @@
 
 <h2> Northeastern University - Spring 2022 </h2>
 
-\n Veronica Aguiar, Zain Alam, Neals Maniraja 
+ Veronica Aguiar, Zain Alam, Neals Maniraja 
 
 
 <h2> WEB SCRAPING PROCESS: </h2>
