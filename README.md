@@ -7,7 +7,7 @@
  Veronica Aguiar, Zain Alam, Neals Maniraja 
 
 
-<h2> WEB SCRAPING PROCESS: </h2>
+<h2> DATA COLLECTION FILE: airbnb_cleaned.ipynb </h2>
 
 
 
